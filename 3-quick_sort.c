@@ -93,3 +93,4 @@ void quick_sort(int *array, size_t size)
 
 	rec_part_sort(array, size, 0, size - 1);
 }
+
